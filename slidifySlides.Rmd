@@ -1,6 +1,6 @@
 ---
-title: "Slidify"
-subtitle: Data
+title: "Reproducible Pitch Presentation - Slidify"
+subtitle: Baseball Data Visualization App (Shiny & Slidify)
 author: Mikel Zurutuza
 job: CICtourGUNE - Research Centre in Tourism
 framework: io2012
